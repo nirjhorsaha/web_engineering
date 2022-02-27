@@ -1,0 +1,49 @@
+*{
+    text-align: center;
+}
+.box1{
+    border: 5px solid black; 
+    background-color: peachpuff;
+    position: relative;
+    height: 550px;
+    width: 100%;
+}
+.box1 h1{
+    color: blueviolet;
+}
+.box1 .nav {
+  background-color: greenyellow; 
+  list-style-type: none;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 0;
+}
+
+.box1 .nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 10px;
+}
+.box2{
+    border: 5px solid black;
+    height: 350px;
+    width: 50%;
+    position: absolute;
+    background-color: palevioletred;
+    top: 200px;
+    left: 400px;
+}
+.box2 h1,h2{
+    color: white;
+}
+.box2 h2{
+    margin-top: 50px;
+    font-size: 30px;
+}
+.box2 .nav p {
+    display: inline-block;
+    font-size: 20px;
+    padding: 30px;
+    
+}
