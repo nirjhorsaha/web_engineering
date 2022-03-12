@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* h1{
+    text-align: center;
+} */
+
+body {
+  background-color: antiquewhite;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.container {
+  background-color: rgb(235, 232, 228);
+  border-radius: 5px;
+  box-shadow: 0 1px 10px black;
+  width: 400px;
+  padding: 20px;
+}
+form > input {
+  width: 100%;
+  padding: 15px;
+  font-family: Courier;
+}
+
+#sd {
+  border-radius: 5px;
+}

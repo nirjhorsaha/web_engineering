@@ -1,0 +1,10 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+table{
+    margin: 50px auto;
+    padding: 50px;
+    font-size: 20px;
+    background-color: palegreen;
+}

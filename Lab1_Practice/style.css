@@ -1,0 +1,32 @@
+table,th,tr,td{
+    border: 1px solid black;
+    text-align: center;
+    border-color: rgb(169, 177, 185);;
+}
+table{
+    width: 80%;
+}
+.image{
+    position: absolute;
+    top: auto;
+    
+    
+}
+span{
+    color: red;
+}
+/* centering table */
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    background-color: rgb(102, 165, 238);
+    ;
+}
+tr:nth-child(even){
+    background-color: rgb(197, 206, 224);
+}
+tr:nth-child(odd){
+    background-color: rgb(248, 242, 242);
+}

@@ -1,0 +1,26 @@
+ table {
+    border: 1px solid #000000;
+    border-collapse: collapse; 
+    margin: 0 auto;  
+    padding: 0px;
+    table-layout: fixed;
+    min-width: 100%;
+  }
+  table th {
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #000000;
+    background:#1b90bb;
+    color:#FFFFFF;
+    font-weight:bold;
+    text-align:center
+  }
+  table td{
+    padding: 8px;
+    border: 1px solid #000000;
+  }
+  table tr{
+    background-color: #dddddd;
+    color:#000000;
+    text-align:center;
+  }
